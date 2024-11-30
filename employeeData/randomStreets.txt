@@ -1,0 +1,68 @@
+
+Herzlia 14
+HaShalom 8
+HaMerkaz 22
+Ben-Gurion 56
+HaCarmel 11
+Allenby 90
+HaGiborim 45
+HaDekel 33
+Rothschild Blvd 15
+HaHagana 62
+Palmach 7
+HaShalom 39
+HaPoel 24
+Jerusalem Blvd 29
+HaHerut 11
+HaDerek 38
+Bnei Brak 30
+HaYehuda 9
+Ben-Tzion 21
+Herod 12
+HaYam 18
+Beni Brak 30
+HaAchdut 56
+HaGefen 14
+HaHatslacha 34
+HaSharon 70
+Chaim Weizmann 61
+HaMarpe 8
+HaMishol 6
+HaTzore 32
+HaYuval 23
+HaAmek 40
+HaChadash 57
+Menachem Begin 5
+HaChof 16
+HaOr 11
+HaMarpeset 19
+HaYeled 45
+HaIr HaChadasha 3
+Jerusalem Blvd 10
+HaHadar 25
+HaGeshem 52
+HaHar 4
+HaYetzira 60
+HaAtzmaut 78
+HaSipur 7
+HaChazon 24
+HaKoach 13
+HaMishmar 50
+HaTchiya 43
+HaNahar 21
+HaSharayon 67
+HaChazakah 9
+HaMerkaz 36
+HaZahav 16
+HaMesiba 62
+HaGvura 14
+HaNechama 55
+HaPninah 18
+HaNoar 27
+HaTzlecha 19
+HaKneset 31
+HaHolchim 49
+Shderot HaYam 37
+HaChazir 56
+HaYarok 42
+HaNeshech 15
